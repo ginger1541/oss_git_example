@@ -27,9 +27,9 @@
   > a platform for collaborative development
 * Key features of GitHub: 
   1. repositories
-  2. issues
-  3. wikis
-  4. discussions
+   2. issues
+    3. wikis
+     4. discussions
 
 [My Github Blog](https://github.com/ginger1541)
 
