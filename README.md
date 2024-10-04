@@ -11,19 +11,19 @@
 
 -------------
 ### Week2-1 버전 관리 개요
-* Introduction to version control systems (VCS) and their importance
+* Introduction to **version control systems**_(VCS)_ and their importance
 * Key concepts: repositories, commits, branches, merges
 
 -------------
 ### Week2-2 Git
-* Introduction to Git and its role in version control
-* Key features and benefits of using Git for software development
+* Introduction to Git and its role in **version control**
+* Key features and **benefits** of using Git for software development
 
 ![Image](https://github.com/ginger1541/oss_git_example/blob/master/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png)
 
 -------------
 ### Week2-3 Github, fork, pull request
-* Introduction to GitHub: 
+* Introduction to [GitHub](https://github.com/ginger1541): 
   > a platform for collaborative development
 * Key features of GitHub: 
   1. repositories
