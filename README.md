@@ -19,7 +19,7 @@
 * Introduction to Git and its role in version control
 * Key features and benefits of using Git for software development
 
-![Image](그림.png)
+![Image](https://github.com/ginger1541/oss_git_example/blob/master/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png)
 
 -------------
 ### Week2-3 Github, fork, pull request
